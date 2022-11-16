@@ -113,8 +113,9 @@ html{
     }
   }
   
-  .site-header .nav-links ul li {
+  .nav-links ul li {
     list-style: none;
+    cursor: pointer;
   }
   
   .site-header .nav-links ul li a {
